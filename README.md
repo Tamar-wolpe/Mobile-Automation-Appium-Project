@@ -49,4 +49,5 @@
 Java
 options.setDeviceName("שם_המכשיר_שלכם");
 options.setPlatformVersion("גרסה");
+
 נכתב על ידי תמר וולפא.
